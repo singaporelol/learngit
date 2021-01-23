@@ -1,0 +1,2 @@
+我是在dev分支，通过git branch dev2，创建的
+现在在dev2分支，创建一个dev2.txt文件，这个文件不应该出现在dev的分支中
